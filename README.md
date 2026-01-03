@@ -91,6 +91,8 @@ Get your API key from:
 python main.py
 
 ### 📁 Project Structure
+
+```text
 rag-news-chatbot/
 ├── main.py                     # Application entry point
 ├── conversation_graph.py       # LangGraph agent logic
@@ -102,11 +104,16 @@ rag-news-chatbot/
 ├── chat_history_manager.py     # Conversation memory
 ├── .env                        # API keys (ignored)
 ├── .gitignore                  # Prevents secret commits
+```
 
 ### 📦 Dependencies
-pip install langchain langgraph langchain-community
-pip install langchain-huggingface
-pip install sentence-transformers torch
-pip install newspaper3k feedparser python-dotenv
+pip install langchain langgraph langchain-community  
+
+pip install langchain-huggingface  
+
+pip install sentence-transformers torch  
+
+pip install newspaper3k feedparser python-dotenv  
+
 pip install lxml_html_clean
 
