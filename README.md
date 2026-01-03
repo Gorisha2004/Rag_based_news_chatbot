@@ -1,4 +1,4 @@
-# 📰 RAG-Based Financial News Chatbot
+# 📰 RAG-Based News Chatbot
 
 A **real-time Retrieval-Augmented Generation (RAG) application** that analyzes live financial news and answers stock market–related questions using the latest articles.
 
