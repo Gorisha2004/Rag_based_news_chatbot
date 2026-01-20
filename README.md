@@ -39,10 +39,6 @@ The chatbot fetches live RSS feeds, processes news articles, stores semantic emb
 - **Persistent Memory**
   - Chat history saved across sessions
 
-- **Production Ready**
-  - Handles **700+ news chunks**
-  - Optimized retrieval using ChromaDB
-
 ---
 
 ## 🛠️ Tech Stack
